@@ -8,3 +8,4 @@ Add merge test.
 Fix all bugs.
 Test push to origin.
 Test pull to origin.
+test pull to github
