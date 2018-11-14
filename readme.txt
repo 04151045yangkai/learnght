@@ -7,3 +7,4 @@ Add merge.
 Add merge test.
 Fix all bugs.
 Test push to origin.
+Test pull to origin.
